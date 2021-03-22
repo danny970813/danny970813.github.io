@@ -3,7 +3,7 @@
 
 * Education : National Taiwan University of Science and Technology, CSIE
 * E-mail : danny970813@gmail.com
-* Personal Website : https://github.com/danny970813
+* Personal Website : https://danny970813.github.io/
 * Programming : C, python, matlab
 * AI Framework : pytorch
 * Function: 
