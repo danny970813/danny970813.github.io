@@ -5,7 +5,7 @@
 * Programming : C, python, matlab
 * AI Framework : pytorch
 
-<img src="https://github.com/danny970813/aboutME/blob/main/maxresdefault.jpg" width="40%" />
+<img src="./maxresdefault.jpg" width="40%" />
 
 * Function: 
 
